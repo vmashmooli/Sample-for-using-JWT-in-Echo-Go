@@ -8,17 +8,25 @@ Creating a simple web service by Echo and APIs to create and check the token, an
 Items given in this example:
 
 1 — How to create and loading configuration from JSON files
+
 2 — How to run a simple web service by Echo
+
 3 — How to Routing APIs in Echo
+
 4 — How to create a token by user id and user name
+
 5 — How to check received token validity 
 
 ## Getting Started
 
 Step 1 — Creating a JSON file for configuration
+
 Step 2 — Reading the config.json file
+
 Step 3 — Creating a web service by Echo 
+
 Step 4 — Creating a token for the user
+
 Step 5 — Checking the received token validity
 
 ### Dependencies
