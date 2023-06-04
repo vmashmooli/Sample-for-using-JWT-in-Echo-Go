@@ -1,4 +1,5 @@
-# Simple_JWT_in_Golang
+# Sample_for_using_JWT_in_Echo_Go
+
 
 Simple web API example for using JWT in GoLang
 
