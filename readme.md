@@ -5,6 +5,7 @@ Simple web API example for using JWT in GoLang
 ## Description
 
 Creating a simple web service by Echo and APIs to create and check the token, and Using JSON file to keep configuation.
+
 Items given in this example:
 
 1 — How to create and loading configuration from JSON files
@@ -42,7 +43,7 @@ Step 5 — Checking the received token validity
 * go mod tidy
 * go run main.go / go run .
 * http://localhost:1707/api/v1/create_token
-* http://localhost:1707/api/v1/check_token?token={token value}
+* http://localhost:1707/api/v1/check_token?token={tokenvalue}
 
 ### Extra links
 
@@ -53,6 +54,7 @@ Step 5 — Checking the received token validity
 ## Authors
 
 vahid mashmooli
+
 vahidmashmooli@gmail.com
 
 ## Version History
