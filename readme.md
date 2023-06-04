@@ -46,9 +46,9 @@ Step 5 — Checking the received token validity
 
 ### Extra links
 
-Echo Go guide:  https://echo.labstack.com/guide
-JWT Debugger: https://jwt.io
-Secure Password Generator: https://passwordsgenerator.net
+* Echo Go guide:  https://echo.labstack.com/guide
+* JWT Debugger: https://jwt.io
+* Secure Password Generator: https://passwordsgenerator.net
 
 ## Authors
 
