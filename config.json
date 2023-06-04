@@ -1,0 +1,11 @@
+{
+    "setting":{
+        "server":{
+            "port":1707
+        },
+        "jwt":{
+            "secret":"x2L5Cv4PbwWfPp9Y5prcwHRW3ZyRe4EZ",
+            "age":24
+        }
+    }
+}
